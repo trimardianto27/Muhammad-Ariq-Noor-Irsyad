@@ -1,4 +1,4 @@
-#Dibuat oleh TRI MARDIANTO  dan MOC 
+#Dibuat oleh TRI MARDIANTO  dan MOCH ARIK
 def luaspersegi(sisi):
     luas=sisi*sisi
     return luas
