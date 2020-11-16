@@ -10,3 +10,4 @@ int main(void)
   kali=jumlah*jumlah;
   printf("hasil (%d * %d)^2 = %d",A,B,kali);
 }
+
